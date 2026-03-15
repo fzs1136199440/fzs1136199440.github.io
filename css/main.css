@@ -1384,7 +1384,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff5cbd;
+  background: #e701d0;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2829,5 +2829,13 @@ header.header {
 }
 .posts-expand .post-title,
 .posts-expand .post-meta {
+  text-align: left !important;
+}
+/* 让发布时间等信息也全部靠左 */
+.post-meta {
+  justify-content: flex-start !important;
+}
+/* 确保里面的文字也靠左对齐 */
+.post-meta-item {
   text-align: left !important;
 }
