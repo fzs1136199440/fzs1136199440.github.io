@@ -1384,7 +1384,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e701d0;
+  background: #18a1bd;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2838,4 +2838,9 @@ header.header {
 /* 确保里面的文字也靠左对齐 */
 .post-meta-item {
   text-align: left !important;
+}
+/* --- 让文章之间的分割线也靠左对齐 --- */
+.post-eof {
+  margin: 80px 0 60px !important; /* 原本是 80px auto，现在把 auto 改成 0 就靠左了 */
+  width: 8% !important; /* 这是线的长度，如果你想让线长一点，可以把 8% 改大，比如 20% */
 }
