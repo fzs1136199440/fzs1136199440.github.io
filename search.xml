@@ -53,6 +53,20 @@
       </tags>
   </entry>
   <entry>
+    <title>我的第一篇文章</title>
+    <url>/2026/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>今天我成功创建了自己的博客。</p>
+<h2 id="学到了什么"><a href="#学到了什么" class="headerlink" title="学到了什么"></a>学到了什么</h2><ul>
+<li>Markdown</li>
+<li>Hexo</li>
+<li>GitHub</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>清单</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一只追光的笨鸟</title>
     <url>/2026/03/15/%E4%B8%80%E5%8F%AA%E8%BF%BD%E5%85%89%E7%9A%84%E7%AC%A8%E9%B8%9F/</url>
     <content><![CDATA[<blockquote>
@@ -109,20 +123,6 @@
 ]]></content>
       <tags>
         <tag>我的小传</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇文章</title>
-    <url>/2026/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>今天我成功创建了自己的博客。</p>
-<h2 id="学到了什么"><a href="#学到了什么" class="headerlink" title="学到了什么"></a>学到了什么</h2><ul>
-<li>Markdown</li>
-<li>Hexo</li>
-<li>GitHub</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>清单</tag>
       </tags>
   </entry>
 </search>
