@@ -78,6 +78,18 @@
       </tags>
   </entry>
   <entry>
+    <title>用 AI 把优质公众号当成数据库</title>
+    <url>/2026/04/04/%E7%94%A8-AI-%E6%8A%8A%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BD%93%E6%88%90%E6%95%B0%E6%8D%AE%E5%BA%93/</url>
+    <content><![CDATA[<p>我很喜欢一位名叫李万中的老师，他精通阅读，是批判性思维和通识教育的专家。他的公众号叫【认真想】，积累了多年的优质内容。</p>
+<p>最近我发现他的公众号设置了 AI 自动回复功能。起初我以为和某运营商的 AI 客服一样，只能返回死板的答案，无法理解复杂指令。但尝试之后，发现居然可以在聊天框里和 AI 正常对话，这让我相当惊喜。</p>
+<p>自然而然我就想到一个用法：以后凡是遇到阅读、批判性思维和通识教育的问题，直接在聊天框提问，就能得到他整理好的相关回答，相当于有了专业私人智库，多了一位免费又靠谱的思维导师。</p>
+<p>进一步思考，其他的优质公众号多半也开通了这类功能，用好你的关注列表，让 AI 为你提效。</p>
+]]></content>
+      <tags>
+        <tag>AI 实践</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>人生不止一把标尺</title>
     <url>/2026/04/01/%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%AD%A2%E4%B8%80%E6%8A%8A%E6%A0%87%E5%B0%BA/</url>
     <content><![CDATA[<p>人不能只有一个评价体系，而是要主动构建多个评价维度。</p>
@@ -87,20 +99,6 @@
 ]]></content>
       <tags>
         <tag>人生感悟</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇文章</title>
-    <url>/2026/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>今天我成功创建了自己的博客。</p>
-<h2 id="学到了什么"><a href="#学到了什么" class="headerlink" title="学到了什么"></a>学到了什么</h2><ul>
-<li>Markdown</li>
-<li>Hexo</li>
-<li>GitHub</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>清单</tag>
       </tags>
   </entry>
   <entry>
@@ -135,6 +133,20 @@
 ]]></content>
       <tags>
         <tag>认知科学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇文章</title>
+    <url>/2026/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>今天我成功创建了自己的博客。</p>
+<h2 id="学到了什么"><a href="#学到了什么" class="headerlink" title="学到了什么"></a>学到了什么</h2><ul>
+<li>Markdown</li>
+<li>Hexo</li>
+<li>GitHub</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>清单</tag>
       </tags>
   </entry>
   <entry>
